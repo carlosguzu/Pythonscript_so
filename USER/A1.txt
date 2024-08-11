@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Este es el archivo A1" << std::endl;
+    return 0;
+}
